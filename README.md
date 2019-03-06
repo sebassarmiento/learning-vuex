@@ -1,4 +1,11 @@
-# mowser
+# Vue.js with Vuex names list
+
+## Functionalities
+
+- Add a name to state array
+- Delete a name from state array
+- Remove all names from state array
+- Using state, actions, getters and mutations
 
 ## Project setup
 ```
